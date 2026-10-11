@@ -1,0 +1,3 @@
+[ai]
+required = true
+description = "Powers the Ask Sandy portfolio assistant. Answers are grounded in Sandy's portfolio facts only."
